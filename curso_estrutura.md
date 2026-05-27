@@ -15,7 +15,7 @@
 | 1.05 | Dimmer MolSmart TCP |
 | 1.06 | GW8 IR (TV & AC) |
 | 1.07 | SoundSmart |
-| 1.08 | Zigbee Geral |
+| 1.08 | Protocolo sem Fio: Z-Wave, Zigbee e Matter |
 | 1.09 | Conceitos Básicos Maker API |
 | 1.10 | Setup Maker API + VETRA |
 | 1.11 | Organização e Personalização do VETRA |
